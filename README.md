@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chalermpond
 - 👀 I’m interested in NodeJS / NestJS / Typescript / RxJS / C# .Net
-- 🌱 I’m currently learning my cat/ He's 2yrs old now.
+- 🌱 I’m currently working with Typescript/.NET 6
 
 <!---
 chalermpond/chalermpond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
